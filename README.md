@@ -1,2 +1,2 @@
 # NewProductSimulator
-Gives an idea whether introducing new product in the market 
+Gives an idea if introducing new product in the market is better or not
